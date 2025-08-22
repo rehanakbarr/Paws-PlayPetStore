@@ -4,7 +4,7 @@ A modern, responsive, and beautiful website for a local pet store built with pur
 
 ## 🚀 Live Demo
 
-[View Live Website](#https://paws-playpetstore.netlify.app/)
+[View Live Website](https://paws-playpetstore.netlify.app/)
 
 ## ✨ Features
 
